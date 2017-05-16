@@ -417,6 +417,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tagify/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hacksprint.Tagify;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -429,6 +430,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tagify/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hacksprint.Tagify;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -509,6 +511,7 @@
 				D824316E1EC4022E00656584 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D824316F1EC4022E00656584 /* Build configuration list for PBXNativeTarget "TagifyTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +520,7 @@
 				D82431711EC4022E00656584 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D82431721EC4022E00656584 /* Build configuration list for PBXNativeTarget "TagifyUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +529,7 @@
 				D82431741EC4022E00656584 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
